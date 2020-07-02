@@ -33,6 +33,9 @@
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
     <ItemGroup>
+        <Reference Include="SouceCode_POOF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <HintPath>bin\Debug\SouceCode_POOF.exe</HintPath>
+        </Reference>
         <Reference Include="System" />
         <Reference Include="System.Core" />
         <Reference Include="System.Xml.Linq" />
@@ -60,6 +63,30 @@
         <Compile Include="Vista\Login.Designer.cs">
           <DependentUpon>Login.cs</DependentUpon>
         </Compile>
+        <Compile Include="Vista\ManagerH.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\ManagerH.Designer.cs">
+          <DependentUpon>ManagerH.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Vista\ManagerM.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\ManagerM.Designer.cs">
+          <DependentUpon>ManagerM.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Vista\ManagerP.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\ManagerP.Designer.cs">
+          <DependentUpon>ManagerP.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Vista\ManagerT.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\ManagerT.Designer.cs">
+          <DependentUpon>ManagerT.cs</DependentUpon>
+        </Compile>
         <Compile Include="Vista\Principal.cs">
           <SubType>Form</SubType>
         </Compile>
@@ -75,6 +102,21 @@
             <AutoGen>True</AutoGen>
             <DependentUpon>Resources.resx</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="Vista\ManagerH.resx">
+          <DependentUpon>ManagerH.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Vista\ManagerM.resx">
+          <DependentUpon>ManagerM.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Vista\ManagerP.resx">
+          <DependentUpon>ManagerP.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Vista\ManagerT.resx">
+          <DependentUpon>ManagerT.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Vista\Principal.resx">
+          <DependentUpon>Principal.cs</DependentUpon>
+        </EmbeddedResource>
         <None Include="Properties\Settings.settings">
             <Generator>SettingsSingleFileGenerator</Generator>
             <LastGenOutput>Settings.Designer.cs</LastGenOutput>
