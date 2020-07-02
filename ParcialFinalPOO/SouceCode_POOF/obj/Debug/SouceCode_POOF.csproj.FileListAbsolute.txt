@@ -10,3 +10,5 @@ C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerM.resources
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerP.resources
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csproj.CopyComplete
+C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerH.resources
+C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerT.resources
