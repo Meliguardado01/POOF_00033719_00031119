@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace SouceCode_POOF.Vista
 {
@@ -8,5 +9,7 @@ namespace SouceCode_POOF.Vista
         {
             InitializeComponent();
         }
+
+       
     }
 }

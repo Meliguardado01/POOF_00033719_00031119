@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\bin\Debug\SouceCode_POOF.exe.config
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\bin\Debug\SouceCode_POOF.pdb
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csprojAssemblyReference.cache
@@ -12,3 +13,17 @@ C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csproj.CopyComplete
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerH.resources
 C:\Users\Guzmance_\Desktop\PARCIAL_FINAL\POOF_00033719_00031119\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ManagerT.resources
+=======
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\bin\Debug\SouceCode_POOF.exe.config
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\bin\Debug\SouceCode_POOF.exe
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\bin\Debug\SouceCode_POOF.pdb
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csprojAssemblyReference.cache
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Properties.Resources.resources
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csproj.GenerateResource.cache
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.exe
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.pdb
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.ChangePassword.resources
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.Login.resources
+C:\Users\Melissa\Desktop\ParcialFinal\ParcialFinalPOO\SouceCode_POOF\obj\Debug\SouceCode_POOF.Vista.HistorialEmpleado.resources
+>>>>>>> aa096ab643f716b21b93a386872ec45b4f3d6042
